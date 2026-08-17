@@ -1,0 +1,12 @@
+# 10 AI/ML Projects (Beginner to Advanced)
+
+1. **Titanic Survival Prediction**: Predict passenger survival using basic ML algorithms. (Beginner)
+2. **House Prices Prediction**: Build a regression model to predict housing prices. (Beginner)
+3. **Sentiment Analysis**: Analyze movie reviews to classify positive or negative sentiment. (Beginner)
+4. **Image Classifier**: Create a CNN to classify images from the CIFAR-10 dataset. (Intermediate)
+5. **Chatbot**: Develop an intelligent FAQ chatbot using NLP and intent classification. (Intermediate)
+6. **Recommendation System**: Build a collaborative filtering system for movies. (Intermediate)
+7. **Object Detection**: Implement YOLO or SSD to detect objects in a video stream. (Advanced)
+8. **Text Summarizer**: Use Transformer models to summarize long articles. (Advanced)
+9. **AI Game Agent**: Train an RL agent to play Flappy Bird or Snake. (Advanced)
+10. **End-to-End ML Pipeline**: Create an automated pipeline tracking model drift and auto-retraining. (Advanced)
