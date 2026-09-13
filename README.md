@@ -40,3 +40,28 @@ We welcome contributions! If you have suggestions for improvements, new resource
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Overview
+Study roadmaps for CS & Engineering students from beginner to advanced
+
+## Features
+6 tracks: Embedded Systems, Web Dev, AI/ML, Cybersecurity, DevOps, Mobile Dev. Each with timeline, project ideas, free resources
+
+## Architecture
+Organized by tracks and timelines
+
+## Installation
+Fork and follow your chosen track
+
+## Usage
+Pick a track, follow the weekly/monthly plan, build the suggested projects
+
+## Project Structure
+embedded-systems/, web-development/, ai-ml/, cybersecurity/, devops-cloud/, mobile-dev/
+
+## Screenshots
+Example roadmap timeline
+
+## Future
+Interactive web version, progress tracking, community contributions
